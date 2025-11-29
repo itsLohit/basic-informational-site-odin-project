@@ -1,0 +1,24 @@
+{
+  "name": "basic-informational-site-odin-project",
+  "version": "1.0.0",
+  "description": "A simple Node.js web server that serves static HTML pages using only core Node.js modules—no frameworks required. Built as part of [The Odin Project](https://www.theodinproject.com/) curriculum to learn fundamental backend concepts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsLohit/basic-informational-site-odin-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/itsLohit/basic-informational-site-odin-project/issues"
+  },
+  "homepage": "https://github.com/itsLohit/basic-informational-site-odin-project#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
